@@ -1,0 +1,2 @@
+# comprehensions-and-combinations
+Python comprehensions are a powerful language feature that, under the right circumstances, can greatly improve the productivity of a programmer and the readability of source code. This article explores how comprehensions can be used to build concise solutions for problems that require defining or generating various kinds of combinations of all the elements from a finite (or infinite) set.
